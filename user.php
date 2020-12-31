@@ -30,6 +30,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
 
 <!-- Bootstrap Core CSS -->
 <link href="admin/css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="admin/css/bootstrap.css" rel='stylesheet' type='text/css' />
 
 <!-- Custom CSS -->
 <link href="admin/css/style.css" rel='stylesheet' type='text/css' />
