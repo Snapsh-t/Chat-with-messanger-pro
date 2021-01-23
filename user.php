@@ -66,7 +66,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
 <style>
 #chartdiv {
   width: 100%;
-  height: 295px;
+  height: 300px;
 }
 </style>
 
@@ -131,7 +131,7 @@ $(function() {
                                          text: "You want to delete this group",
                                          type: "warning",
                                          showCancelButton: true,
-                                        cancelButtonColor: "red",
+                                        cancelButtonColor: "grey",
                                         confirmButtonColor: "green",
                                         confirmButtonText: "Yes, remove!",
                                          cancelButtonText: "No, cancel!",
